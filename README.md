@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>comix724's Comic Corner</title>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
 	<meta charset="utf-8" />
 </head>
 <body>
     <div class="container">
         <div class="jumbotron">
-            <h1>comix724's Comic Book Corner</h1>
+            <h1>comix724's Comic Corner</h1>
             <h2>Your source for all things comic book related!</h2>
         </div>
     </div>
